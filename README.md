@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @pinatq
-- 👀 I’m interested in optimalization pc, trading, technology.
-- 📫 How to reach me Discord "pinatq"
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I have Champion in Fortnite 
+# 🚶🏻‍♂️‍➡️ PINATQ | Vibe coder and Trader 👋
 
-<!---
-pinatq/pinatq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📍 **Poland** 
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+
+---
+do uzupelninia jak bedize pomysl wieksy pozdor 
+
+
+*Private repositories only. Building in silence.*
