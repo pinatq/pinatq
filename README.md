@@ -11,7 +11,7 @@
 - $\color{orange}{\text{SimplyPoly}}$ -- *Bot Arbitrage*
 - $\color{blue}{\text{Bloomopera}}$ -- *Intelligent newsletter*
 - $\color{red}{\text{Shogun-Terminal}}$ -- *Better mt5* 
+- $\color{royalblue}{\text{Locking}}$ -- *Exprimental trade bot's* 
 
-do uzupelninia jak bedize pomysl wieksy pozdor 
 
 *Private repositories only. Building in silence.*
