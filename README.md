@@ -7,7 +7,7 @@
 ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ---
-- $\color{red}{\text{polymarket-1.0}}$ -- *Bot HFT Arbitrage (Overengineering)* ✅
+- $\color{red}{\text{polymarket-1.0}}$ -- *Bot HFT Arbitrage (Overengineering)* 
 - $\color{orange}{\text{SimplyPoly}}$ -- *Bot Arbitrage*
 - $\color{blue}{\text{Bloomopera}}$ -- *Intelligent newsletter*
 - $\color{red}{\text{Shogun-Terminal}}$ -- *Better mt5* 
