@@ -11,7 +11,7 @@
 - $\color{darkorange}{\text{SimplyPoly}}$ -- *Bot Arbitrage*
 - $\color{blue}{\text{Bloomopera}}$ -- *Intelligent newsletter*
 - $\color{red}{\text{Shogun-Terminal}}$ -- *Better mt5* 
-- $\color{royalblue}{\text{Locking}}$ -- *Exprimental trade bot's*
+- $\color{pink}{\text{Locking}}$ -- *Exprimental trade bot's*
 - $\color{red}{\text{AlgoLiqid}}$ -- *Trade Bot* 
 - $\color{red}{\text{SimplyStoX}}$ -- *Arbitrae Bot* 
 - $\color{darkblue}{\text{SnipiVi}}$  -- *sniping bot vinted*    
