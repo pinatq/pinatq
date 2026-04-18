@@ -18,10 +18,10 @@
 ---
 1. - $\color{red}{\text{polymarket-1.0}}$ -- *Bot HFT Arbitrage* 
 2. - $\color{darkorange}{\text{SimplyPoly}}$ -- *Bot Arbitrage*
-3. - $\color{blue}{\text{Bloomopera}}$ -- *Intelligent newsletter*
+3. - $\color{blue}{\text{Bloomopera}}$ -- *Intelligent newsletter*✅
 4. - $\color{red}{\text{Shogun-Terminal}}$ -- *Better mt5* 
 5. - $\color{red}{\text{SimplyStoX}}$ -- *Arbitrae Bot* 
-6. - $\color{darkblue}{\text{SnipiVi}}$  -- *Sniping bot vinted*    
+6. - $\color{darkblue}{\text{SnipiVi}}$  -- *Sniping bot vinted*✅    
 7. - $\color{blue}{\text{HegemonVi}}$ -- *Masster terminal vinted* 
 8. - $\color{purple}{\text{Stren}}$ -- *Smart gym note* 
 
