@@ -17,7 +17,7 @@
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ---
 1. - $\color{red}{\text{polymarket-1.0}}$ -- *Bot Arbitrage* ✅
-2. - $\color{darkorange}{\text{SimplyPoly}}$ -- *Bot Arbitrage*
+2. - $\color{darkorange}{\text{SimplyPoly}}$ -- *Bot Arbitrage* ✅
 3. - $\color{blue}{\text{Bloomopera}}$ -- *Intelligent newsletter* ✅
 4. - $\color{red}{\text{Shogun-Terminal}}$ -- *Better mt5* 
 5. - $\color{red}{\text{SimplyStoX}}$ -- *Arbitrae Bot* 
