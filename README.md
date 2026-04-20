@@ -16,7 +16,7 @@
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ---
-1. - $\color{red}{\text{polymarket-1.0}}$ -- *Bot Arbitrage* 
+1. - $\color{red}{\text{polymarket-1.0}}$ -- *Bot Arbitrage* ✅
 2. - $\color{darkorange}{\text{SimplyPoly}}$ -- *Bot Arbitrage*
 3. - $\color{blue}{\text{Bloomopera}}$ -- *Intelligent newsletter* ✅
 4. - $\color{red}{\text{Shogun-Terminal}}$ -- *Better mt5* 
@@ -24,6 +24,6 @@
 6. - $\color{darkblue}{\text{SnipiVi}}$  -- *Sniping bot vinted* ✅    
 7. - $\color{blue}{\text{HegemonVi}}$ -- *Masster terminal vinted* 
 8. - $\color{purple}{\text{Stren}}$ -- *Smart gym note*
-9. - $\color{darkorange}{\text{CopyMeme}}$ -- *copytrading bot*
+9. - $\color{darkorange}{\text{CopyMeme}}$ -- *Copytrading Bot*
 
 *Private repositories only. Building in silence.*
