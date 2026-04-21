@@ -24,6 +24,7 @@
 6. - $\color{darkblue}{\text{SnipiVi}}$  -- *Sniping bot vinted* ✅    
 7. - $\color{blue}{\text{HegemonVi}}$ -- *Masster terminal vinted* 
 8. - $\color{purple}{\text{Stren}}$ -- *Smart gym note*
-9. - $\color{darkorange}{\text{CopyMeme}}$ -- *Copytrading Bot* ✅ 
+9. - $\color{darkorange}{\text{CopyMeme}}$ -- *Copytrading Bot* ✅
+9. - $\color{darkorange}{\text{ByOrderCypr}}$ -- *OrderFlow Crypto Bot* 
 
 *Private repositories only. Building in silence.*
